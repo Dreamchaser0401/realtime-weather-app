@@ -35,8 +35,6 @@ const Container = styled.div`
 `;
 
 const AUTHORIZATION_KEY = "CWB-E8DC762C-B1B2-463E-B74A-B130A692DEEE";
-const LOCATION_NAME = "臺北";
-const LOCATION_NAME_FORECAST = "臺北市";
 
 const App = () => {
   // 從localStorage取得先前保存地區，若沒有則給預設台中市
